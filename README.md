@@ -57,13 +57,15 @@ then
 
 continue damalis repository guide
 
-#### Nginx Proxy Manager Admin
+#### Log in to the Admin UI
 
 ```http://example.com:81``` Attention: http without "s".
 
-#### Default Administrator User
+#### Default Admin User
 
 ```
 Email:    admin@example.com\
 Password: changeme
 ```
+
+Immediately after logging in with this default user you will be asked to modify your details and change your password.
