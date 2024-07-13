@@ -57,7 +57,7 @@ then
 
 continue damalis repository guide
 
-### Nginx Proxy Manager Admin
+#### Nginx Proxy Manager Admin
 
 ```http://example.com:81``` Attention: http without "s".
 
