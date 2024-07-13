@@ -57,6 +57,13 @@ then
 
 continue damalis repository guide
 
-####
+### Nginx Proxy Manager Admin
 
 ```http://example.com:81``` Attention: http without "s".
+
+#### Default Administrator User
+
+```
+Email:    admin@example.com\
+Password: changeme
+```
