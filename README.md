@@ -2,11 +2,12 @@
 
 If You want to build a website with Nginx Proxy Manager at short time;
 
-#### Full stack Nginx Django "webapp":
+#### Full stack Nginx Proxy Manager:
 <p align="left"> <a href="https://https://nginxproxymanager.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/88089605?s=200&v=4" alt="nginx proxy manager" height="40" width="40"/> </a>&nbsp;&nbsp;&nbsp; 
 <a href="https://github.com/damalis?tab=repositories" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/11361779?v=4" alt="damalis" width="40" height="40" width="40"/> </a>&nbsp;&nbsp;&nbsp;</p>
 
 #### IPv4/IPv6 Firewall
+
 Create rule to open port to the internet, or to a specific IPv4 address or range.
 
 - http: 81
