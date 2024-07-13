@@ -1,0 +1,27 @@
+    npm:
+        depends_on:
+            certbot:
+                condition: service_healthy
+        image: jc21/nginx-proxy-manager:latest
+        container_name: npm
+        networks:
+            - backend
+            - frontend
+        volumes:
+            - ./npm:/data
+            - 'certbot-etc:${LETSENCRYPT_CONF_PREFIX}'
+        hostname: npm
+        restart: unless-stopped
+        ports:
+            - '81:81' # Admin Web Port
+            # Add any other Stream port you want to expose
+            # - '21:21' # FTP
+        links:
+            - database
+        environment:
+            # Uncomment this if you want to change the location of
+            # the SQLite DB file within the container
+            # DB_SQLITE_FILE: '/data/database.sqlite'
+            TZ: '${LOCAL_TIMEZONE}'
+            # Uncomment this if IPv6 is not enabled on your host
+            # DISABLE_IPV6: 'true'
