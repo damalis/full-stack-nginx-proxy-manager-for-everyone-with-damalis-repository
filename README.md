@@ -19,7 +19,7 @@ add "npm.yml" file code in "docker-compose.yml" file
 
 ```
 services:
-	npm:
+    npm:
         depends_on:
             certbot:
                 condition: service_healthy
@@ -48,9 +48,9 @@ services:
             # DISABLE_IPV6: 'true'
 
     wordpress:
-	.
-	.
-	.
+    .
+    .
+    .
 ```
 
 then
