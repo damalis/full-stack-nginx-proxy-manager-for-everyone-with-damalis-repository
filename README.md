@@ -65,7 +65,7 @@ continue damalis repository guide
 #### Default Admin User
 
 ```
-Email:    admin@example.com\
+Email:    admin@example.com
 Password: changeme
 ```
 
