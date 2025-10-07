@@ -48,7 +48,7 @@ services:
             # Uncomment this if IPv6 is not enabled on your host
             # DISABLE_IPV6: 'true'
 
-    wordpress:
+    webserver:
     .
     .
     .
