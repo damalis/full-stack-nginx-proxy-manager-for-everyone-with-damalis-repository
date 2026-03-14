@@ -60,12 +60,12 @@ continue damalis repository guide
 
 #### Log in to the Admin UI
 
-```http://example.com:81``` Attention: http without "s".
+```http://DOMAIN_NAME:81``` Attention: http without "s".
 
 #### Default Admin User
 
 ```
-Email:    admin@example.com
+Email:    admin@DOMAIN_NAME
 Password: changeme
 ```
 
