@@ -3,8 +3,8 @@
 If You want to build a website with Nginx Proxy Manager at short time;
 
 #### Full stack Nginx Proxy Manager:
-<p align="left"> <a href="https://https://nginxproxymanager.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/88089605?s=200&v=4" alt="nginx proxy manager" height="40" width="40"/> </a>&nbsp;&nbsp;&nbsp; 
-<a href="https://github.com/damalis?tab=repositories" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/11361779?v=4" alt="damalis" width="40" height="40" width="40"/> </a>&nbsp;&nbsp;&nbsp;</p>
+[![Nginx Proxy Manager](https://img.shields.io/badge/Nginx%20Proxy%20Manager-009639?style=flat)](https://https://nginxproxymanager.com/)
+[![Damalis GitHub Repositories](https://img.shields.io/badge/Damalis-Repositories-181717?style=flat&logo=github)](https://github.com/damalis?tab=repositories)
 
 #### IPv4/IPv6 Firewall
 
